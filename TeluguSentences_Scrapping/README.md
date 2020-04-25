@@ -6,3 +6,5 @@
 `scrap_page.py` - Scrap telugu text from a given page on [this website](http://www.andhrabhoomi.net/content/ap-14466)
 
 `scrap_surya.py` - Scrap telugu text from [website](https://www.telugu.suryaa.com/andhrapradesh-latest.php)
+
+If you face unicode errors use the file `fixer.py` to fix them
